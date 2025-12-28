@@ -1,7 +1,7 @@
 # AI Book Recommender Pro – Project Report & README
 
 **A smart, interactive book recommendation system powered by modern AI techniques**
-![AI Book Recommender Demo](Media\Demo.png)
+![AI Book Recommender Demo](Media/Demo.png)
 **Tech Stack**: Python • Groq (Llama 3.3) • Sentence Transformers • Gradio • Google Books API • Open Library API
 
 ### Project Overview
