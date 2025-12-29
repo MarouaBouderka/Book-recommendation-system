@@ -12,7 +12,7 @@
 | **Frontend / UI**     | Gradio (Blocks + Chatbot)                  |
 | **Book Data Sources** | Google Books API + Open Library API        |
 | **Core Language**     | Python 3.12                                |
-| **Vector Similarity** | scikit-learn (cosine similarity)           |
+| **Vector Similarity** | scikit-learn                               |
 
 ### Project Overview
 
